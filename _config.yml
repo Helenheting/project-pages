@@ -1,6 +1,6 @@
 # Site settings
 title: HeTing's Blog
-description: "an bioinformatics undergraduate student"
+description: "a Bioinformatics Undergraduate Student"
 url: "https://projectpages.github.io"
 
 
@@ -8,7 +8,7 @@ url: "https://projectpages.github.io"
 
 # Secondary Parameters
 baseurl: "/project-pages"
-header-img: img/home-bg.jpg
+header-img: img/home-bg-revise.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg-revise.jpg"
 
 # Prose Settings
 prose:
