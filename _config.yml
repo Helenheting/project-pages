@@ -9,7 +9,7 @@ url: "https://projectpages.github.io"
 # Secondary Parameters
 baseurl: "/project-pages"
 header-img: img/bioinfo3.png
-headercolor: "#FFFFFF"
+headercolor: "#F"
 logo: 
 
 # Tertiary Parameters
