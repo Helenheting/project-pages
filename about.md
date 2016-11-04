@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "About"
-description: "Why use Project Pages?"
-header-img: "img/home-bg.jpg"
+title: "Chase My Dream"
+description: "Writing 100 words a days makes me better."
+header-img: "img/homepage.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+Hi,this is He Ting. You can also call me Helen.^^. Welcome to my blog.
+You can see my resume here: [My resume](/He Ting.pdf)
+And you can contact with me by email. My email address is hetinghelen@hotmail.com.
 	
