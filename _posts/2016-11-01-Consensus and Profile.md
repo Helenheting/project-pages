@@ -26,7 +26,7 @@ step 3:Output the number of A/G/C/T in each lines
 ste 4:When meet the largest number, print out the most common symbol in each position.
 
 ### Code
-{% highlight Java linenos%}
+{% highlight Java %}
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
