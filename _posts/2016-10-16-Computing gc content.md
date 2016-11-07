@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Rosalind_StringAlgorithms_Computing GC Content
+title:      Rosalind-Computing GC Content
 author:     He Ting
-tags:       Rosalind Java code
+tags:       Rosalind Java code StringAlgorithms
 subtitle:   identifying unknown DNA quickly
 category:  code
 fulview: true

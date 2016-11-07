@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Rosalind_StringAlgorithms_Consensus and Profile
+title:      Rosalind-Consensus and Profile
 author:     He Ting
-tags:       Rosalind Java code
+tags:       Rosalind Java code StringAlgorithms
 subtitle:   finding a most likely common ancestor
 category:  code
 fulview: true

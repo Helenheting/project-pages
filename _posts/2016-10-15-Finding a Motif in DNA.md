@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Rosalind_StringAlgorithms_Finding a Motif in DNA
+title:      Rosalind-Finding a Motif in DNA
 author:     He Ting
-tags:       Rosalind Java code
+tags:       Rosalind Java code StringAlgorithms
 subtitle:   combing through the haystack
 category:  code
 fulview: true

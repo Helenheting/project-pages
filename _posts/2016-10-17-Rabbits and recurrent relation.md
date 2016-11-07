@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Rosalind_DynamicProgramming_Rabbits and Recurrence Relations
+title:      Rosalind-Rabbits and Recurrence Relations
 author:     He Ting
-tags:       Rosalind Java code
+tags:       Rosalind Java code DynamicProgramming
 subtitle:   wascally wabbits
 category:  code
 fulview: true

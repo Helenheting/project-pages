@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Rosalind_ComputationalMassSpectrometry_Calculating Protein Mass
+title:      Rosalind-Calculating Protein Mass
 author:     He Ting
-tags:       Rosalind Java code
+tags:       Rosalind Java code ComputationalMassSpectrometry
 subtitle:   chaining the Amino Acids
 category:  code
 fulview: true
