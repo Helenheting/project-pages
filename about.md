@@ -6,6 +6,6 @@ header-img: "img/homepage2.jpg"
 ---
 
 Hi,this is He Ting. You can also call me Helen. Welcome to my blog.
-You can see my resume here: ![My resume]({{ site.baseurl }}/assets/HeTing.pdf). 
+You can see my resume here: [My resme](https://projectpages.github.io/project-pages/assets/HeTing.pdf). 
 And you can contact with me by email. My email address is hetinghelen@hotmail.com.
 	
