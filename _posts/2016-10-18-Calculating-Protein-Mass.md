@@ -26,12 +26,14 @@ Return: The total weight of P. Consult the monoisotopic mass table.
 3.There are two standard ways of computing the mass of a residue by summing the masses of its individual atoms. Its monoisotopic mass is computed by using the principal(mosy abundant)isotope of each atom in the amino acid, whereas its average mass is taken by taking the average mass of each atom in the molecule. Many applications in protemoics rely on mass spectrometry, an analytical technique used to determine the mass, elemental composition, and structure of molecules.
 
 4.The standard unit used in mass spectrometry for measuring mass is the atomic mass unit, which is also called the dalton(Da) and is defined as one twelfth of the mass of neutral atom of carbon-12.
+
 ### Solution
 Step 1: Use "split" to save the data as array.
 
 Step 2: Add each amino acid's mass.
 
 Step 3: Output the mass in total.
+
 ### Code 
 {% highlight Java %}
 import java.io.BufferedReader;
