@@ -10,7 +10,7 @@ fulview: true
 ### [Question](http://rosalind.info/problems/ini/)
 Of the many tools for DNA sequence analysis, one of the most popular is the Seqence Manipulation Suite. Commonly known as SMS 2, it comprises a collection of programs for generating, formatting, and analyzing short strands of DNA and polypeptides.
 
-One f the simplest SMS 2 programs, called "DNA stats", counts the number of occurrences of each nucleotide in a given strand of DNA. An online interface for DNAstats can be found here.[link](http://www.bioinformatics.org/sms2/dna_stats.html)
+One in the simplest SMS 2 programs, called "DNA stats", counts the number of occurrences of each nucleotide in a given strand of DNA. An online interface for DNAstats can be found here.[link](http://www.bioinformatics.org/sms2/dna_stats.html)
 
 Example:
 
@@ -21,7 +21,7 @@ Return:Four integers (separated by spaces) representing the respective number of
 ### Note
 In this topic, Bioinformatics Tools, we will familiarize ourselves with a sampling of some of the more popular bioinformatics tools taken from "out of the box" software.
 
-###Code
+### Code
 {% highlight Java %}
 import java.io.BufferedReader;
 import java.io.FileReader;
